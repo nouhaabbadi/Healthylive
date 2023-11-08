@@ -15,7 +15,7 @@
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
 </head>
 <body bg-primary>
-       
+  <h1>Home</h1>
    <font size=+20><font color=#006400><B><center>MY HEALTHY GUIDE</font></font></B>
    <br/>
    <B><U><font color=#808000>Un site qui offre chaque jour un menu différent pour un mode de vie équilibré et healthy</B></U></font></center>
