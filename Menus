@@ -1,0 +1,41 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>MENU</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet">
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
+</head>
+ <body >
+  <font size=+5><center><font color=#808000><B>Menu du jour</font></center></font></B>
+  <div class="container p-3 my-12 border bg-warning">
+   <h1><font color=#228B22>MARDI:09/06/2023:</h1></font>(N'oublier pas de boire au moins 2L d'eau)
+   <ul>
+     <li><h2><font color=#006400>Petit déjeuner:</li></font></h2>
+	   <ul type="circle"><B>
+	    <li>200ml de lait 0% (sans sucre)</li>
+	    <a href="Recettes"><li>Pancake à l'avoine + une cuillére de miel</li></a>
+	    <li>une orange</li></ul></B>
+	 <li><h2><font color=#006400>Déjeuner:</li></font></h2>
+	   <ul type="circle"><B>
+        <a href="Recettes"><li>Une assiette de salade d'avocat</li></a>
+        <a href="Recettes"><li>160g escalope grillé à la sauce piquante</li></ul></B></a>		
+	 
+	 <li><h2><font color=#006400>Collation:</li></font></h2>
+	    <ul type="circle"><B>
+		 <li>Une poignet de fruits secs</li></B> 
+	 <li><h2><font color=#006400>Diner:</li></font></h2></ul>
+	    <ul type="circle"><B>
+		 <a href="Recettes"><li>Soupe de lentilles</li></B></ul></a>
+	 <li><h2><font color=#006400>Bonus du jour:</li></font></h2>
+	    <ul type="circle"><B>
+		 <a href="Recettes"><li>Une tizane brule graisses</li></a>
+		 <a href="https://www.youtube.com/watch?v=DBwDmcgwSRM"><li>1H de zomba</li></B></ul></a>
+	 </ul>
+  <hr/>
+     <h1><font color=#FF6347><center>A Demain Pour Un Nouveau Menu</h1></font></center>
+  </div>
+ </body>
+</html> 
